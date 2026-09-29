@@ -61,7 +61,7 @@ TTFT はストリームの最初のトークンが届くまでの実時間なの
 ## クイックスタート
 
 ```bash
-git clone https://github.com/<you>/llm-depth-bench && cd llm-depth-bench
+git clone https://github.com/moriyasujapan/llm-depth-bench && cd llm-depth-bench
 mkdir -p runs
 
 ./llm-depth-bench.py \

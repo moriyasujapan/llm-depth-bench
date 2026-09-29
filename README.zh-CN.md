@@ -55,7 +55,7 @@ TTFT 是流中第一个 token 到达为止的墙钟时间，因此 prefill 数�
 ## 快速开始
 
 ```bash
-git clone https://github.com/<you>/llm-depth-bench && cd llm-depth-bench
+git clone https://github.com/moriyasujapan/llm-depth-bench && cd llm-depth-bench
 mkdir -p runs
 
 ./llm-depth-bench.py \
