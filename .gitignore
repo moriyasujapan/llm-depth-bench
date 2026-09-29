@@ -1,0 +1,6 @@
+# Measurement output: raw results, generated text, telemetry. Kept local;
+# publish it deliberately, alongside a report, not by accident.
+runs/
+
+__pycache__/
+*.pyc
